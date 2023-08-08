@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **umrajs123@gmail.com**
 
+- 📄 Know about my experiences [https://twitter.com/iamumraj/status/1676694270181523456](https://twitter.com/iamumraj/status/1676694270181523456)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamumraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamumraj" height="30" width="40" /></a>
