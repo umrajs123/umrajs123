@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamumraj" target="blank"><img src="https://img.shields.io/twitter/follow/iamumraj?logo=twitter&style=for-the-badge" alt="iamumraj" /></a> </p>
 
-- 🔭 I’m currently working on [Because Marketing Works (WordPress)](https://becausemarketingworks.co.uk/)
-
-- 🌱 I’m currently learning **Laravel**
+- 🔭 I’m currently working at iMedia5.co.uk as a Web Developer/Designer.
 
 - 👨‍💻 All of my projects are available at [https://becausemarketingworks.co.uk/](https://becausemarketingworks.co.uk/)
 
