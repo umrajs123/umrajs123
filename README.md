@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://becausemarketingworks.co.uk/](https://becausemarketingworks.co.uk/)
 
-- 📫 How to reach me **umrajs123@gmail.com**
+- 📫 How to reach me **umrajs123@gmail.com**/ **+923433946559**
 
 - 📄 Know about my experiences [https://twitter.com/iamumraj/status/1676694270181523456](https://twitter.com/iamumraj/status/1676694270181523456)
 
