@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at iMedia5.co.uk as a Web Developer/Designer.
 
-- 👨‍💻 All of my projects are available at [https://becausemarketingworks.co.uk/](https://becausemarketingworks.co.uk/)
+- 👨‍💻 All of my projects are available at [https://umrajs123.github.io/myportfolio/](https://umrajs123.github.io/myportfolio/)
 
 - 📫 How to reach me **umrajs123@gmail.com**/ **+923433946559**
 
